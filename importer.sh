@@ -4,7 +4,7 @@
 #------------------------------------------------ 
 # import a Monefy CSV on a MySQL/MariaDB table  		
 #
-#	@ovfl0w (Francesco Esposito)  
+#	@f3sposito (Francesco Esposito)  
 #################################################
 #path
 PATH_IN="/yourdirectory/monefy_csv/"
