@@ -2,7 +2,7 @@
 * CREATE TABLE
 * filename: CREATE_STG_IMPORT_MONEFY.sql
 *
-* author:	@f3sposito (Francesco Esposito)
+* author:	@frsposito (Francesco Esposito)
 *************************************************/
 CREATE TABLE TABLE_IMPORT_MONEFY(
 	DATA_OP DATE,
